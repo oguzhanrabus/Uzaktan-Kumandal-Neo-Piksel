@@ -1,0 +1,24 @@
+#define BUTON1 16752735 // Parlalýk Artýr Butonu
+#define BUTON2 16720095 // Parlalýk Azalt Butonu
+#define BUTON3 16736415 // Off Butonu
+#define BUTON4 16769055 // On Butonu
+#define BUTON5 16748655 // R Butonu
+#define BUTON6 16716015 // G Butonu
+#define BUTON7 16732335 // B Butonu
+#define BUTON8 16764975 // W Butonu
+#define BUTON9 16756815 // Kýrmýzý Butonu
+#define BUTON10 16724175 // Yeþil Butonu
+#define BUTON11 16740495 // Mavi Butonu
+#define BUTON12 16773135 // Flash Butonu
+#define BUTON13 16754775 // Turuncu Butonu
+#define BUTON14 16722135 // Açýk Mavi Butonu
+#define BUTON15 16738455 // Mor Butonu
+#define BUTON16 16771095 // Strobe Butonu
+#define BUTON17 16750695 // Turuncu Butonu
+#define BUTON18 16718055 // Mavi Butonu
+#define BUTON19 16734375 // Mor Butonu
+#define BUTON20 16767015 // Fade Butonu
+#define BUTON21 16746615 // Sarý Butonu
+#define BUTON22 16713975 // Mavi Butonu
+#define BUTON23 16730295 // Pembe Butonu
+#define BUTON24 16762935 // Smooth Butonu
